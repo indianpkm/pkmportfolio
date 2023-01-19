@@ -598,6 +598,7 @@ li {
     position: fixed;
     right: 2%;
     bottom: 5%;
+    font-size: 2.5rem;
     cursor: pointer;
     z-index: 1;
 }
